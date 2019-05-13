@@ -372,10 +372,6 @@ You know who i am, don't you? :smirk:
 3.1.0 Alpha6:  
 * 不支持ui.inflate()方法  
 * 不支持Engines模块  
-
-3.1.0 Beta:
-* 不支持ui.inflate()方法  
-* 不支持Engines模块  
   
 3.1.1 Alpha:  
 * 不支持ui.inflate()方法  
