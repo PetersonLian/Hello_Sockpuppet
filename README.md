@@ -1,6 +1,6 @@
 # Auto.js bug versions:   
 ##### For Ant_Forest_Project only  
-###### As of May 14, 2019    
+###### As of May 31, 2019    
     
 
 3.0.0 Alpha:  
@@ -543,3 +543,6 @@ Pro 7.0.2-0:
   
 Pro 7.0.2-3:  
 * 脚本运行后导致Auto.js崩溃  
+
+Pro 7.0.3-1:  
+* Dialogs模块事件失效  
