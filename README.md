@@ -546,3 +546,16 @@ Pro 7.0.2-3:
 
 Pro 7.0.3-1:  
 * Dialogs模块事件失效  
+
+Pro 7.0.3-4:  
+* console.setGlobalLogConfig()功能异常  
+
+Pro 7.0.3-5:  
+* floaty.rawWindow()功能异常  
+
+Pro 7.0.3-6:  
+* engines.setArguments()功能异常  
+* press()等手势方法时间过短时可能出现阻塞现象  
+
+Pro 7.0.4-0:  
+* 图形配置页面崩溃
