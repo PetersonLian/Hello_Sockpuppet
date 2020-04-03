@@ -1,7 +1,6 @@
 # Auto.js bug versions:   
-##### For Ant_Forest_Project only  
+##### For Auto.js_Projects-Ant_Forest only  
 ###### As of Jul 21, 2019    
-    
 
 3.0.0 Alpha:
 * 不支持cwd()方法及相对路径
